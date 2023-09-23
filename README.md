@@ -7,7 +7,7 @@ This program reads the keyboard input and writes to the keyboard output. With th
 ## Original code
 This program is a modified port of the program <br>
 <br>
-actkbd - A keyboard shortcut daemon
+actkbd - A keyboard shortcut daemon <br>
 [http://users.softlab.ntua.gr/~thkala/projects/actkbd/actkbd.html](http://users.softlab.ntua.gr/~thkala/projects/actkbd/actkbd.html) <br>
 <br>
 And has the same license as the original code.
